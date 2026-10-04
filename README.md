@@ -110,13 +110,5 @@
 </p>
 
 
-
-<!-- PROFILE VISITOR COUNTER (DÜZƏLDİLDİ - BLOKLANMAYAN TEAL SAYĞAC) -->
-<p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=edaletsadigov&label=Profile%20Views&color=9&icon=0" alt="Profile Views" />
-  </a>
-</p>
-
 <!-- FOOTER BANNER -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:008080,100:20B2AA&height=120&section=footer" />
