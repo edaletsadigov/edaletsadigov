@@ -92,13 +92,13 @@
 <h3 align="center">📊 GitHub Activity & Insights</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=edaletsadigov&custom_title=Edalet%20Sadigov&show_icons=true&bg_color=061a1d&title_color=20B2AA&text_color=e6edf3&icon_color=20B2AA&border_color=008080&hide_border=false" alt="Edalet Sadigov" />
+  <img src="https://github-readme-stats.vercel.app/api?username=edaletsadigov&custom_title=Edalet%20Sadigov%27s%20GitHub%20Stats&show_icons=true&bg_color=061a1d&title_color=20B2AA&text_color=e6edf3&icon_color=20B2AA&border_color=008080&hide_border=false" alt="Edalet Sadigov's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edaletsadigov&layout=compact&bg_color=061a1d&title_color=20B2AA&text_color=e6edf3&border_color=008080&hide_border=false" alt="Top Languages" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=edaletsadigov&theme=dark&background=061a1d&border=008080&stroke=008080&ring=20B2AA&fire=20B2AA&currStreakNum=20B2AA&sideNums=20B2AA&currStreakLabel=20B2AA" alt="Streak Stats" />
-</p>
+</p>>
 
 ---
 
