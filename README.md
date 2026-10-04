@@ -1,7 +1,7 @@
 <!-- HEADER BANNER -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:008080,100:20B2AA&height=180&section=header&text=Edalet%20Sadigov&fontSize=42&fontColor=ffffff&animation=twinkling" />
 
-<!-- TYPING ANIMATION (DÜZƏLDİLDİ) -->
+<!-- TYPING ANIMATION -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=008080&center=true&vCenter=true&width=520&lines=Hey+there,+I%27m+Edalet+Sadigov;Data+Analyst+%7C+BI+%26+Automation;Oracle+SQL+%7C+Python+%7C+Power+BI;Excel+VBA+%26+Macros+%7C+Actionable+Insights" alt="Typing SVG" />
 </p>
