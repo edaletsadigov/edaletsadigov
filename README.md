@@ -1,5 +1,5 @@
 # 💫 About Me:
-# Hi, I'm Ədalət 👋<br><br>### Data Analyst | Python | SQL | Power BI | Machine Learning<br><br>📊 Data Analyst focused on transforming raw data into actionable business insights.
+# Hi, I'm Ədalət 👋<br><br> Data Analyst | Python | SQL | Power BI | Machine Learning<br><br>📊 Data Analyst focused on transforming raw data into actionable business insights.
 
 
 ## 🌐 Socials:
