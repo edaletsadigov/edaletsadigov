@@ -3,7 +3,7 @@
 
 <!-- TYPING ANIMATION -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=008080&center=true&vCenter=true&width=500&lines=Hey+there!+I'm+Edalet+Sadigov+👋;Data+Analyst+%7C+BI+Enthusiast;Turning+Complex+Data+into+Clarity;Building+Predictive+%26+Visual+Stories" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=008080&center=true&vCenter=true&width=520&lines=Hey+there!+I'm+Edalet+Sadigov+👋;Data+Analyst+%7C+BI+%26+Automation;Oracle+SQL+%7C+Python+%7C+Power+BI;Excel+VBA+Macros+%7C+Actionable+Insights" alt="Typing SVG" />
 </p>
 
 ---
@@ -14,17 +14,19 @@
     <td width="65%" valign="top">
       <h2>💫 About Me</h2>
       <p>
-        I'm a passionate <b>Data Analyst</b> dedicated to transforming raw, unstructured data into clean, meaningful, and actionable business intelligence. I bridge the gap between numbers and strategic decisions through statistical rigor, predictive modeling, and human-centric dashboards.
+        I'm a passionate <b>Data Analyst</b> dedicated to transforming raw, complex data into clean, intuitive, and actionable business intelligence. I bridge the gap between heavy relational databases and strategic decisions through robust querying, routine process automation, predictive modeling, and human-centric dashboards.
       </p>
       <blockquote>
         <i>"I like data, clean visuals, and anything that brings clarity to complex systems. If an analysis doesn't feel completely intuitive, it means it's not done yet." 😌</i>
       </blockquote>
       <ul>
-        <li>📊 <b>Core Focus:</b> Exploratory Data Analysis (EDA), KPI Tracking & Business Analytics</li>
-        <li>📈 <b>Predictive Power:</b> Machine Learning workflows, regression/classification & statistical hypothesis testing</li>
-        <li>💡 <b>Visualization:</b> Crafting interactive, decision-ready dashboards in Power BI and Python</li>
-        <li>🎯 <b>Mindset:</b> Continuous learning, structured problem solving, and analytical precision</li>
-        <li>🤝 <b>Collaboration:</b> Always open to exciting data projects, brainstorming, and new opportunities</li>
+        <li>📊 <b>Core Analytics:</b> Exploratory Data Analysis (EDA), KPI Tracking & Business Intelligence</li>
+        <li>🗄️ <b>Relational Databases:</b> Complex querying, subqueries, indexing & transformations with <b>Oracle SQL</b>, MySQL & SQLite</li>
+        <li>⚡ <b>Workflow Automation:</b> Building custom <b>Excel VBA & Macros</b> solutions for reporting efficiency and workflow optimization</li>
+        <li>📈 <b>Predictive Modeling:</b> Machine Learning pipelines, regression, classification & statistical analysis</li>
+        <li>💡 <b>Visualization & BI:</b> Interactive, decision-ready dashboards built in Power BI, Python & Excel</li>
+        <li>🎯 <b>Mindset:</b> Analytical precision, clean documentation, and continuous problem-solving</li>
+        <li>🤝 <b>Collaboration:</b> Open to analytical challenges, collaborations, and data-driven projects</li>
       </ul>
     </td>
     <td width="35%" align="center" valign="middle">
@@ -52,7 +54,20 @@
 <h3 align="center">💻 Tech Stack & Analytical Arsenal</h3>
 
 <p align="center">
-  <b>Programming & Data Analysis</b><br/>
+  <b>Databases & SQL</b><br/>
+  <img src="https://img.shields.io/badge/Oracle_SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle SQL" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+</p>
+
+<p align="center">
+  <b>Spreadsheets & Process Automation</b><br/>
+  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Microsoft Excel" />
+  <img src="https://img.shields.io/badge/Excel_VBA_%2F_Macros-185C37?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel VBA Macros" />
+</p>
+
+<p align="center">
+  <b>Programming & Data Manipulation</b><br/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
@@ -60,21 +75,15 @@
 </p>
 
 <p align="center">
-  <b>Data Visualization & BI</b><br/>
+  <b>Business Intelligence & Visualization</b><br/>
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" alt="Power BI" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib" />
   <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib" />
 </p>
 
 <p align="center">
-  <b>Databases & Machine Learning</b><br/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+  <b>Machine Learning & Tools</b><br/>
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
-</p>
-
-<p align="center">
-  <b>Tools & Workflow</b><br/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" alt="Trello" />
