@@ -1,16 +1,85 @@
-## Hi there 👋
+# Hi, I'm Ədalət 👋
 
-<!--
-**edaletsadigov/edaletsadigov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Data Analyst | Python | SQL | Power BI | Machine Learning
 
-Here are some ideas to get you started:
+📊 Data Analyst focused on transforming raw data into actionable business insights.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 How to reach me: your-email@gmail.com
+
+---
+
+## 🛠️ Languages & Tools
+
+### Data Analytics
+- 🐍 Python — Pandas, NumPy, SciPy
+- 🗄️ SQL — Data Extraction, Transformation & Analysis
+- 📊 Power BI — Dashboards, DAX, KPI Analysis
+- 📗 Excel — Power Query, VBA, Pivot Tables
+- 📈 Statistics — Hypothesis Testing, Correlation, Statistical Analysis
+
+### Machine Learning
+- 🤖 Scikit-learn
+- 📊 Regression
+- 🎯 Classification
+- 🔍 Clustering
+- ⚙️ Feature Engineering
+- 📏 Model Evaluation
+- 🔄 Cross-Validation
+
+### Data Visualization
+- 📈 Plotly
+- 📊 Power BI
+- 📗 Excel
+
+---
+
+## 📌 What I Work With
+
+- Data Cleaning & Transformation
+- Exploratory Data Analysis (EDA)
+- Statistical Analysis
+- Customer & Cohort Analysis
+- RFM Segmentation
+- KPI & Business Analysis
+- Data Visualization
+- Power BI Dashboard Development
+- SQL Data Analysis
+- Machine Learning
+- Predictive Modeling
+
+---
+
+## 📊 Featured Projects
+
+### 🎮 Video Games Analysis
+
+Exploratory Data Analysis of video game sales, platforms, genres and regional markets.
+
+**Tools:** Python, Pandas, NumPy, SciPy, Plotly
+
+🔗 [View Project](https://github.com/edaletsadigov/Video-Games-Analysis)
+
+### 🛒 Online Store Business Analysis
+
+Analyzed customer behavior, conversion, retention, marketing spend and ROI to identify business opportunities.
+
+**Tools:** Python, Pandas, NumPy, SciPy, Plotly
+
+🔗 [View Project](https://github.com/edaletsadigov/online-store-business-analysis)
+
+---
+
+## 🎯 Current Focus
+
+- Advanced SQL
+- Business Intelligence & Power BI
+- Statistical Analysis
+- Machine Learning
+- Predictive Analytics
+- End-to-End Data Analytics Projects
+
+---
+
+## 📫 Connect With Me
+
+[LinkedIn](YOUR_LINKEDIN_URL) • [GitHub](https://github.com/edaletsadigov)
