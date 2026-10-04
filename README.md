@@ -1,9 +1,9 @@
 <!-- HEADER BANNER -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:008080,100:20B2AA&height=180&section=header&text=Edalet%20Sadigov&fontSize=42&fontColor=ffffff&animation=twinkling" />
 
-<!-- TYPING ANIMATION -->
+<!-- TYPING ANIMATION (DÜZƏLDİLDİ) -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=008080&center=true&vCenter=true&width=520&lines=Hey+there!+I'm+Edalet+Sadigov+👋;Data+Analyst+%7C+BI+%26+Automation;Oracle+SQL+%7C+Python+%7C+Power+BI;Excel+VBA+Macros+%7C+Actionable+Insights" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=008080&center=true&vCenter=true&width=520&lines=Hey+there,+I%27m+Edalet+Sadigov;Data+Analyst+%7C+BI+%26+Automation;Oracle+SQL+%7C+Python+%7C+Power+BI;Excel+VBA+%26+Macros+%7C+Actionable+Insights" alt="Typing SVG" />
 </p>
 
 ---
@@ -105,10 +105,10 @@
 
 ---
 
-<!-- PROFILE VISITOR COUNTER -->
+<!-- PROFILE VISITOR COUNTER (DÜZƏLDİLDİ - BLOKLANMAYAN TEAL SAYĞAC) -->
 <p align="center">
-  <a href="https://github.com/edaletsadigov">
-    <img src="https://komarev.com/ghpvc/?username=edaletsadigov&label=PROFILE+VIEWS&color=008080&style=flat-square" alt="Profile Views" />
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=edaletsadigov&label=Profile%20Views&color=9&icon=0" alt="Profile Views" />
   </a>
 </p>
 
