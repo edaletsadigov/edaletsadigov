@@ -104,6 +104,12 @@
 </p>
 
 ---
+<!-- PROFILE VISITOR COUNTER -->
+<p align="center">
+  <img src="https://api.visitorbadge.io/api/visitors?path=edaletsadigov&label=PROFILE%20VIEWS&labelColor=008080&countColor=20B2AA&style=flat" alt="Profile Views" />
+</p>
+
+
 
 <!-- PROFILE VISITOR COUNTER (DÜZƏLDİLDİ - BLOKLANMAYAN TEAL SAYĞAC) -->
 <p align="center">
