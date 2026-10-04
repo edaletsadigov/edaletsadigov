@@ -24,7 +24,7 @@ If an analysis doesn’t feel right, it means it’s not done yet 😌
 <table> <tr> <td width="50%"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edaletsadigov&layout=compact&theme=tokyonight&hide_border=true" /> </td> <td width="50%" align="center"> <h2>Connect With Me</h2> <p> <a href="https://www.linkedin.com/in/zahra-abdullayeva-23143a169/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> </p> </td> </tr> </table>
 
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:008080,100:20B2AA&height=120&section=footer"/>
+
 
 # 💫 About Me
 
@@ -50,3 +50,4 @@ I’m passionate about turning raw data into meaningful insights and supporting 
 [![](https://komarev.com/ghpvc/?username=edaletsadigov&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:008080,100:20B2AA&height=120&section=footer"/>
