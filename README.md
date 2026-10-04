@@ -6,7 +6,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=8A2BE2&lines=Hey+There+I'm+Edalet+Sadigov)](https://git.io/typing-svg)
 
-<img align="right" height="250" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"/>
+<img align="right" height="250" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
  **Data Analyst | Business Insights | Visualization Enthusiast**
  
