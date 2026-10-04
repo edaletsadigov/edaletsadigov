@@ -20,13 +20,10 @@
         <i>"I like data, clean visuals, and anything that brings clarity to complex systems. If an analysis doesn't feel completely intuitive, it means it's not done yet." 😌</i>
       </blockquote>
       <ul>
-        <li>📊 <b>Core Analytics:</b> Exploratory Data Analysis (EDA), KPI Tracking & Business Intelligence</li>
-        <li>🗄️ <b>Relational Databases:</b> Complex querying, subqueries, indexing & transformations with <b>Oracle SQL</b>, MySQL & SQLite</li>
-        <li>⚡ <b>Workflow Automation:</b> Building custom <b>Excel VBA & Macros</b> solutions for reporting efficiency and workflow optimization</li>
-        <li>📈 <b>Predictive Modeling:</b> Machine Learning pipelines, regression, classification & statistical analysis</li>
-        <li>💡 <b>Visualization & BI:</b> Interactive, decision-ready dashboards built in Power BI, Python & Excel</li>
-        <li>🎯 <b>Mindset:</b> Analytical precision, clean documentation, and continuous problem-solving</li>
-        <li>🤝 <b>Collaboration:</b> Open to analytical challenges, collaborations, and data-driven projects</li>
+        <li>📊 <b>Turning Data into Clarity:</b> Uncovering trends, tracking KPIs, and turning complex metrics into simple stories.</li>
+        <li>🗄️ <b>SQL & Databases:</b> Crafting deep, high-performance queries and schemas with <b>Oracle SQL</b> & MySQL.</li>
+        <li>⚡ <b>Smart Automation:</b> Killing repetitive manual tasks with custom <b>Excel VBA/Macros</b> and streamlined workflows.</li>
+        <li>📈 <b>Visual Impact:</b> Designing intuitive <b>Power BI</b> dashboards and predictive models that drive actual decisions.</li>
       </ul>
     </td>
     <td width="35%" align="center" valign="middle">
