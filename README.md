@@ -21,7 +21,21 @@ If an analysis doesn’t feel right, it means it’s not done yet 😌
 - 🤝 Open to collaborations and new opportunities
 
 ---
-<table> <tr> <td width="50%"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edaletsadigov&layout=compact&theme=tokyonight&hide_border=true" /> </td> <td width="50%" align="center"> <h2>Connect With Me</h2> <p> <a href="https://www.linkedin.com/in/zahra-abdullayeva-23143a169/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> </p> </td> </tr> </table>
+<table>
+  <tr>
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edaletsadigov&layout=compact&theme=tokyonight&hide_border=true" />
+    </td>
+    <td width="50%" align="center">
+      <h2>Connect With Me</h2>
+      <p>
+        <a href="https://www.linkedin.com/in/edalet-sadigov-3b6297381/" target="_blank">
+          <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 
 
