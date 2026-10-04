@@ -82,4 +82,4 @@ Analyzed customer behavior, conversion, retention, marketing spend and ROI to id
 
 ## 📫 Connect With Me
 
-[LinkedIn](YOUR_LINKEDIN_URL) • [GitHub](https://github.com/edaletsadigov)
+[LinkedIn](https://www.linkedin.com/in/edalet-sadigov-3b6297381/) • [GitHub](https://github.com/edaletsadigov)
