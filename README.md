@@ -88,7 +88,7 @@
 
 ---
 
-<!-- GITHUB ANALYTICS & STATS (DEEP TEAL ARXA FONLA) -->
+<!-- GITHUB ANALYTICS & STATS  -->
 <h3 align="center">📊 GitHub Activity & Insights</h3>
 
 <p align="center">
