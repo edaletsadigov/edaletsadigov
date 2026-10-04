@@ -14,7 +14,7 @@
     <td width="65%" valign="top">
       <h2>💫 About Me</h2>
       <p>
-        I'm a passionate <b>Data Analyst</b> dedicated to transforming raw, complex data into clean, intuitive, and actionable business intelligence. I bridge the gap between heavy relational databases and strategic decisions through robust querying, routine process automation, predictive modeling, and human-centric dashboards.
+        I'm a  <b>Data Analyst</b> bridging the gap between raw databases and strategic decisions with robust querying, smart automation, and visual storytelling.
       </p>
       <blockquote>
         <i>"I like data, clean visuals, and anything that brings clarity to complex systems. If an analysis doesn't feel completely intuitive, it means it's not done yet." 😌</i>
