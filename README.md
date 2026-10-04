@@ -98,7 +98,7 @@
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=edaletsadigov&theme=dark&background=061a1d&border=008080&stroke=008080&ring=20B2AA&fire=20B2AA&currStreakNum=20B2AA&sideNums=20B2AA&currStreakLabel=20B2AA" alt="Streak Stats" />
-</p>>
+</p>
 
 ---
 
