@@ -4,7 +4,7 @@
 
 📊 Data Analyst focused on transforming raw data into actionable business insights.
 
-📫 How to reach me: your-email@gmail.com
+📫 How to reach me: edaletsadigov270@gmail.com
 
 ---
 
