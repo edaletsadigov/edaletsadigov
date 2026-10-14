@@ -22,7 +22,6 @@
       <ul>
         <li>📊 <b>Turning Data into Clarity:</b> Uncovering trends, tracking KPIs, and turning complex metrics into simple stories.</li>
         <li>🗄️ <b>SQL & Databases:</b> Crafting deep, high-performance queries and schemas with <b>Oracle SQL</b> & MySQL.</li>
-        <li>⚡ <b>Smart Automation:</b> Killing repetitive manual tasks with custom <b>Excel VBA/Macros</b> and streamlined workflows.</li>
         <li>📈 <b>Visual Impact:</b> Designing intuitive <b>Power BI</b> dashboards and predictive models that drive actual decisions.</li>
       </ul>
     </td>
