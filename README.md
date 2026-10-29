@@ -1,5 +1,5 @@
 <!-- HEADER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:008080,100:20B2AA&height=200&section=header&text=Edalet%20Sadigov&fontSize=44&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Data%20Analyst%20%7C%20BI%20%26%20Automation&descSize=18&descAlignY=60" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:008080,100:20B2AA&height=160&section=header&text=Edalet%20Sadigov&fontSize=40&fontColor=ffffff&fontAlignY=40&desc=Data%20Analyst%20%7C%20BI%20%26%20Automation&descSize=16&descAlignY=62" />
 
 <!-- TYPING ANIMATION -->
 <p align="center">
@@ -38,18 +38,18 @@
   </tr>
 </table>
 
-<!-- WHOAMI TERMINAL -->
-```python
-class EdaletSadigov:
-    role      = "Data Analyst"
-    location  = "Baku, Azerbaijan 🇦🇿"
-    stack     = ["Oracle SQL", "Python", "Power BI", "Excel VBA", "ETL"]
-    focus     = ["Dashboards", "Data Modeling", "Automation", "Insights"]
-    mindset   = "If it's not intuitive, it's not done."
-
-    def deliver(self, raw_data):
-        return raw_data.clean().model().visualize().explain()
-```
+<!-- WHOAMI CARD -->
+<h3 align="center">🧑‍💻 Quick Snapshot</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/role-Data_Analyst-20B2AA?style=for-the-badge&labelColor=061a1d" alt="Role" />
+  <img src="https://img.shields.io/badge/location-Baku,_Azerbaijan_🇦🇿-20B2AA?style=for-the-badge&labelColor=061a1d" alt="Location" />
+  <br/>
+  <img src="https://img.shields.io/badge/stack-Oracle_SQL_•_Python_•_Power_BI_•_Excel_VBA_•_ETL-008080?style=for-the-badge&labelColor=061a1d" alt="Stack" />
+  <br/>
+  <img src="https://img.shields.io/badge/focus-Dashboards_•_Data_Modeling_•_Automation_•_Insights-008080?style=for-the-badge&labelColor=061a1d" alt="Focus" />
+  <br/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3500&pause=1200&color=20B2AA&center=true&vCenter=true&width=520&lines=%22If+it%27s+not+intuitive%2C+it%27s+not+done.%22;raw_data.clean().model().visualize().explain()" alt="Mindset" />
+</p>
 
 ---
 
@@ -146,12 +146,6 @@ class EdaletSadigov:
 <!-- Row 2: streak -->
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=edaletsadigov&theme=dark&background=061a1d&border=008080&stroke=008080&ring=20B2AA&fire=20B2AA&currStreakNum=20B2AA&sideNums=20B2AA&currStreakLabel=20B2AA" alt="Streak Stats" />
-</p>
-
-<!-- Row 3: contribution heatmap -->
-<p align="center">
-  <b>🟩 Contribution Heatmap</b><br/>
-  <img width="95%" src="https://ghchart.rshah.org/20B2AA/edaletsadigov" alt="Contribution Heatmap" />
 </p>
 
 ---
