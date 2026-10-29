@@ -1,5 +1,5 @@
 <!-- HEADER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:008080,100:20B2AA&height=220&section=header&text=Edalet%20Sadigov&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20%7C%20BI%20%26%20Automation&descSize=20&descAlignY=60" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:008080,100:20B2AA&height=200&section=header&text=Edalet%20Sadigov&fontSize=44&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Data%20Analyst%20%7C%20BI%20%26%20Automation&descSize=18&descAlignY=60" />
 
 <!-- TYPING ANIMATION -->
 <p align="center">
@@ -148,9 +148,10 @@ class EdaletSadigov:
   <img src="https://streak-stats.demolab.com/?user=edaletsadigov&theme=dark&background=061a1d&border=008080&stroke=008080&ring=20B2AA&fire=20B2AA&currStreakNum=20B2AA&sideNums=20B2AA&currStreakLabel=20B2AA" alt="Streak Stats" />
 </p>
 
-<!-- Row 3: contribution graph -->
+<!-- Row 3: contribution heatmap -->
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=edaletsadigov&bg_color=061a1d&color=20B2AA&line=20B2AA&point=ffffff&area=true&area_color=008080&hide_border=true&title_color=20B2AA&custom_title=Contribution%20Graph" alt="Contribution Graph" />
+  <b>🟩 Contribution Heatmap</b><br/>
+  <img width="95%" src="https://ghchart.rshah.org/20B2AA/edaletsadigov" alt="Contribution Heatmap" />
 </p>
 
 ---
