@@ -48,7 +48,7 @@
   <br/>
   <img src="https://img.shields.io/badge/focus-Dashboards_•_Data_Modeling_•_Automation_•_Insights-008080?style=for-the-badge&labelColor=061a1d" alt="Focus" />
   <br/>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3500&pause=1200&color=20B2AA&center=true&vCenter=true&width=520&lines=%22If+it%27s+not+intuitive%2C+it%27s+not+done.%22;raw_data.clean().model().visualize().explain()" alt="Mindset" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3500&pause=1200&color=20B2AA&center=true&vCenter=true&width=520&lines=If+it%27s+not+intuitive+it%27s+not+done;Raw+data+%E2%86%92+Clean+model+%E2%86%92+Clear+decision" alt="Mindset" />
 </p>
 
 ---
