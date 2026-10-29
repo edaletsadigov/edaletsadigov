@@ -1,5 +1,5 @@
 <!-- HEADER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:008080,100:20B2AA&height=160&section=header&text=Edalet%20Sadigov&fontSize=40&fontColor=ffffff&fontAlignY=40&desc=Data%20Analyst%20%7C%20BI%20%26%20Automation&descSize=16&descAlignY=62" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:008080,100:20B2AA&height=180&section=header&text=Edalet%20Sadigov&fontSize=42&fontColor=ffffff&animation=twinkling" />
 
 <!-- TYPING ANIMATION -->
 <p align="center">
